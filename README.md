@@ -9,9 +9,8 @@ Team Name: [DYNAMIC DUOS]
 
 Team Members
 
-- Team Lead: [Name] - [College]
+- Team Lead: [DEVIKA BIJU] - [CAPE collage of engineering punnapra]
 - Member 2: [KALYANI ANIL] - [CAPE collage of engineering punnapra]
-- Member 3: [DEVIKA BIJU] - [CAPE collage of engineering punnapra]
 
 Project Description
 
